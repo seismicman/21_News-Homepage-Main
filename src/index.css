@@ -272,7 +272,7 @@ body {
 .subtitle-numbers {
   font-size: 0.65rem;
   line-height: 1.5;
-  max-width: 10rem;
+  max-width: 9.75rem;
   color: var(--Dark-grayish-blue);
 }
 
