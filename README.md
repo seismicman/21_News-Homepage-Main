@@ -22,6 +22,8 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 
 ![](./src/assets/images/screenshot2.jpg)
 
+![](./src/assets/images/screenshot3.jpg)
+
 ### Links
 
 Solution URL: [https://seismicman.github.io/20_Age-Calculator-App-Main/](https://seismicman.github.io/20_Age-Calculator-App-Main/)

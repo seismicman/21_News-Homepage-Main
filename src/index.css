@@ -272,8 +272,12 @@ body {
 .subtitle-numbers {
   font-size: 0.65rem;
   line-height: 1.5;
-  max-width: 9.75rem;
+  max-width: 9.65rem;
   color: var(--Dark-grayish-blue);
+}
+
+.three > .gallery > .numbers > .subtitle-numbers {
+  max-width: 10rem;
 }
 
 /* Mobile */
